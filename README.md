@@ -1,4 +1,4 @@
-# InteractiveCares-Task
+# EDa & Prediction of Data Science Domain Job Salaries worldwide
 ![image](https://github.com/AzadMehedi/Projects/assets/49702660/d5c750d3-0912-4b45-b0f4-891de1ddef11)
 
 <h1>Reports of Data Science Domain job Salary </h1>
